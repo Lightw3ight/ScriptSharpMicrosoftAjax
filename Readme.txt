@@ -1,1 +1,1 @@
-ScriptSharpMicrosoftAjax is a Script# import library for writing Scrip# code against the Microsoft Ajax javascript library
+ScriptSharpMicrosoftAjax is a Script# import library for writing Scrip# code against the Microsoft Ajax javascript library.
