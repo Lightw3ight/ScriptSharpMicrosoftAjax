@@ -63,5 +63,8 @@
     <Compile Include="WebForms\PageLoadingEventArgs.cs" />
     <Compile Include="WebForms\PageRequestManager.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="License.txt" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
